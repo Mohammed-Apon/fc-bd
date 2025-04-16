@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,tvg-logo="",group-title="FANCODE",PSL 2025 [MATCH-9]
-https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdhz5mhnyu/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd|drmScheme=clearkey&drmLicense=159a2b4e1d2d7f16892d35d935a2fb34:07809840dd0f511221ca78459167d1b3
+http://xenolive.com/fancode/global/primary/123022_english_hls_5588ta-no/index.m3u8
 #EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zAZ43208e643rB3pcx8jsLqc6B9.jpg",group-title="Animation Movies", Doraemon: Nobita’s Chronicle of The Moon Exploration (2019)
 https://pub-f213830936064174a9dfe2aff9a181c2.r2.dev/CINEFREAK.NET%20-%20Doraemon%20Nobitas%20Chronicle%20of%20the%20Moon%20Exploration%20(2019)%20BluRay%20[Hindi-English]%20720p.mkv
 #EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w300/dWxEck1aqWF7Z9OvOIzhNwl91w7.jpg",group-title="Animation Movies", Doraemon: Nobita’s Great Adventure in The Antarctic Kachi Kochi (2017)
