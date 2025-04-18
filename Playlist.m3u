@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png", IPL 2025
-https://live-test.tsports.com/live-02/master_1080.m3u8?hdntl=Expires=1744934889~_GO=Generated~URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Signature=AZ9Ym27jSqz90cpVOcy_n9Ri7qilM5BDDi96DOd5edTqh-5waKIFObEU03jwBCCQpjBUPmKHnRIy4Zo6vLCzdn18E2AM
+http://xtv.ooo:8080/3773747/7172737/109987
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/2025_Pakistan_Super_League.png", PSL 2025
-https://live-test.tsports.com/live-01/master_1080.m3u8?hdntl=Expires=1744934889~_GO=Generated~URLPrefix=aHR0cHM6Ly9saXZlLXRlc3QudHNwb3J0cy5jb20v~Signature=AZ9Ym27jSqz90cpVOcy_n9Ri7qilM5BDDi96DOd5edTqh-5waKIFObEU03jwBCCQpjBUPmKHnRIy4Zo6vLCzdn18E2AM
+http://xenolive.com/fancode/global/
 #EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kxOBkzlPXQ6I2XUwMKUAlFYOTJL.jpg", LUCKY BASKHAR (2024)
 https://pub-f213830936064174a9dfe2aff9a181c2.r2.dev/CINEFREAK.NET%20-%20Lucky%20Baskhar%20(2024)%20NF%20WEB-DL%20[Hindi-Malayalam]%201080p%20DDP5.1%20640k.mkv
 #EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w300/uPpmBjY3znUqGY8kYwI5xvOrSc0.jpg", PREMALU (2024)
