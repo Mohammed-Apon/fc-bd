@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/2025_IPL_logo.png", IPL 2025
 http://xtv.ooo:8080/3773747/7172737/167575
-#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/2025_Pakistan_Super_League.png", PSL 2025
-http://xenolive.com/fancode/global/primary/123026_english_hls_6353ta-di/1080p.m3u8
+#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w400/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg", THE LION KING (2019)
+https://pub-bc80734a645843d8b0fe56563eec1717.r2.dev/The.Lion.King.2019.4K-2160p.SDR.10Bit.BluRay.Hindi.DDP2.0-English.5.1.HEVC.x265-HDHub4u.Tv.mkv
+#EXTINF:-1,tvg-logo="https://image.tmdb.org/t/p/w500/jbOSUAWMGzGL1L4EaUF8K6zYFo7.jpg", MUFASA: THE LION KING (2024)
+https://pub-c0a0ef4afed74d31b975ce54eb2bd4ad.r2.dev/Mufasa-The.Lion.King.2024.4K-2160p.SDR.WEB-DL.Hindi.DD5.1-English.DDP5.1.HEVC.x265-HDHub4u.Tv.mkv
