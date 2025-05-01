@@ -1,90 +1,36 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>BORBAAD</title>
-
-  <!-- Google Fonts: Stylish and High-Level -->
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
-
-  <!-- Animation CSS -->
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet"/>
-
   <style>
     body {
       margin: 0;
+      padding: 0;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
       background-color: #000;
-      font-family: 'Poppins', sans-serif;
-      color: #fff;
     }
-
-    .video-container {
-      position: relative;
-      width: 100%;
-      max-width: 100%;
-      overflow: hidden;
-      border-radius: 12px;
+    .video-wrapper {
+      transform: translateY(-50px); /* ভিডিও প্লেয়ারকে একটু উপরে তোলে */
     }
-
     iframe {
-      width: 100%;
-      height: 230px;
       border: none;
-      border-radius: 12px;
-    }
-
-    @media (min-width: 768px) {
-      iframe {
-        height: 400px;
-      }
-    }
-
-    .description {
-      padding: 20px;
-      font-size: 18px;
-      line-height: 1.9;
-      text-align: justify;
-      background-color: rgba(20, 20, 20, 0.95);
-      border-radius: 12px;
-      margin: 15px;
-      box-shadow: 0 6px 14px rgba(0, 0, 0, 0.4);
-      animation: fadeInUp 1s ease-out;
-    }
-
-    .rainbow-text {
-      background: linear-gradient(270deg, #ff4e50, #f9d423, #00c9ff, #92fe9d, #f77062, #c471ed);
-      background-size: 400% 400%;
-      animation: rainbow 8s ease infinite;
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }
-
-    @keyframes rainbow {
-      0% { background-position: 0% 50%; }
-      50% { background-position: 100% 50%; }
-      100% { background-position: 0% 50%; }
-    }
-
-    @keyframes fadeInUp {
-      from {
-        opacity: 0;
-        transform: translateY(20px);
-      }
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
+      width: 1280px;
+      height: 720px;
+      max-width: 100%;
+      max-height: 100%;
     }
   </style>
 </head>
 <body>
 
-<div class="video-container">
-  <iframe src="https://drive.google.com/file/d/1Y7TDa4WXf86CUL_b-VZZK-q0s7QogGFQ/preview" 
-          allow="autoplay; fullscreen" allowfullscreen>
+<div class="video-wrapper">
+  <iframe src="https://drive.google.com/file/d/1Y7TDa4WXf86CUL_b-VZZK-q0s7QogGFQ/preview"
+          allow="autoplay" allowfullscreen>
   </iframe>
 </div>
-<script type='text/javascript' src='//pl26377172.profitableratecpm.com/d7/8b/93/d78b9343b29d8ff89244b094b359e591.js'></script>
+
 </body>
 </html>
