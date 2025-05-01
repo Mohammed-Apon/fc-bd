@@ -2,34 +2,14 @@
 <html>
 <head>
   <title>BORBAAD</title>
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
 
-<video id="video" controls autoplay width="100%" height="auto"></video>
+<h2>BORBAAD (2025)</h2>
 
-<script>
-  const video = document.getElementById('video');
-  const videoSrc = 'https://drive.google.com/file/d/1Y7TDa4WXf86CUL_b-VZZK-q0s7QogGFQ/preview'; // Replace with your HLS URL
-
-  if (Hls.isSupported()) {
-    const hls = new Hls({
-      autoStartLoad: true,
-      startLevel: -1 // -1 means let hls.js pick automatically
-    });
-
-    hls.loadSource(videoSrc);
-    hls.attachMedia(video);
-
-    hls.on(Hls.Events.MANIFEST_PARSED, function (event, data) {
-      // Force highest level
-      hls.currentLevel = hls.levels.length - 1;
-    });
-
-  } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-    video.src = videoSrc;
-  }
-</script>
+<iframe src="https://drive.google.com/file/d/1Y7TDa4WXf86CUL_b-VZZK-q0s7QogGFQ/preview" 
+        width="1280" height="720" allow="autoplay" allowfullscreen>
+</iframe>
 
 </body>
 </html>
