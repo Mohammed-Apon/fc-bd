@@ -8,9 +8,12 @@
       padding: 0;
       height: 100vh;
       display: flex;
-      justify-content: center; /* horizontally center */
-      align-items: center;     /* vertically center */
+      justify-content: center;
+      align-items: center;
       background-color: #000;
+    }
+    .video-wrapper {
+      transform: translateY(-50px); /* ভিডিও প্লেয়ারকে একটু উপরে তোলে */
     }
     iframe {
       border: none;
@@ -23,9 +26,11 @@
 </head>
 <body>
 
-<iframe src="https://drive.google.com/file/d/1Y7TDa4WXf86CUL_b-VZZK-q0s7QogGFQ/preview"
-        allow="autoplay" allowfullscreen>
-</iframe>
+<div class="video-wrapper">
+  <iframe src="https://drive.google.com/file/d/1Y7TDa4WXf86CUL_b-VZZK-q0s7QogGFQ/preview"
+          allow="autoplay" allowfullscreen>
+  </iframe>
+</div>
 
 </body>
 </html>
