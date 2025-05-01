@@ -1,86 +1,35 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>BORBAAD</title>
-  <style>
-    body {
-      background: #000;
-      margin: 0;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      flex-direction: column;
-    }
-    #video {
-      width: 100%;
-      max-width: 1080px;
-    }
-    .controls {
-      margin-top: 10px;
-    }
-    select, button {
-      padding: 5px 10px;
-      font-size: 16px;
-      margin: 0 5px;
-    }
-  </style>
+  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
 </head>
 <body>
-  <video id="video" controls autoplay muted playsinline></video>
-  <div class="controls">
-    <select id="qualitySelector"></select>
-    <button onclick="toggleFullScreen()">Fullscreen</button>
-  </div>
 
-  <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
-  <script>
-    const video = document.getElementById('video');
-    const qualitySelector = document.getElementById('qualitySelector');
-    const videoSrc = 'https://drive.google.com/file/d/1Y7TDa4WXf86CUL_b-VZZK-q0s7QogGFQ/preview'; // Replace with your 1080p HLS URL
+<video id="video" controls autoplay width="100%" height="auto"></video>
 
-    if (Hls.isSupported()) {
-      const hls = new Hls();
-      hls.loadSource(videoSrc);
-      hls.attachMedia(video);
+<script>
+  const video = document.getElementById('video');
+  const videoSrc = 'https://drive.google.com/file/d/1Y7TDa4WXf86CUL_b-VZZK-q0s7QogGFQ/preview'; // Replace with your HLS URL
 
-      hls.on(Hls.Events.MANIFEST_PARSED, function () {
-        const levels = hls.levels;
-        qualitySelector.innerHTML = '';
+  if (Hls.isSupported()) {
+    const hls = new Hls({
+      autoStartLoad: true,
+      startLevel: -1 // -1 means let hls.js pick automatically
+    });
 
-        levels.forEach((level, index) => {
-          const option = document.createElement('option');
-          option.value = index;
-          option.text = `${level.height}p`;
-          qualitySelector.appendChild(option);
-        });
+    hls.loadSource(videoSrc);
+    hls.attachMedia(video);
 
-        // Auto-select highest resolution
-        hls.currentLevel = levels.length - 1;
-        qualitySelector.value = hls.currentLevel;
+    hls.on(Hls.Events.MANIFEST_PARSED, function (event, data) {
+      // Force highest level
+      hls.currentLevel = hls.levels.length - 1;
+    });
 
-        qualitySelector.addEventListener('change', function () {
-          hls.currentLevel = parseInt(this.value);
-        });
+  } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.src = videoSrc;
+  }
+</script>
 
-        video.play();
-      });
-    } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-      video.src = videoSrc;
-      video.addEventListener('loadedmetadata', function () {
-        video.play();
-      });
-    }
-
-    function toggleFullScreen() {
-      if (!document.fullscreenElement) {
-        video.requestFullscreen();
-      } else {
-        document.exitFullscreen();
-      }
-    }
-  </script>
 </body>
 </html>
