@@ -1,11 +1,27 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>BORBAAD</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Centered HLS Player</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: #000;
+    }
+    video {
+      width: 640px;
+      height: 360px;
+      background: #000;
+    }
+  </style>
 </head>
 <body>
-  <video id="video" width="1280" height="720" controls></video>
+  <video id="video" controls></video>
 
   <script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
   <script>
@@ -16,15 +32,8 @@
       const hls = new Hls();
       hls.loadSource(videoSrc);
       hls.attachMedia(video);
-      hls.on(Hls.Events.MANIFEST_PARSED, () => {
-        video.play();
-      });
     } else if (video.canPlayType('application/vnd.apple.mpegurl')) {
-      // For Safari
       video.src = videoSrc;
-      video.addEventListener('loadedmetadata', () => {
-        video.play();
-      });
     }
   </script>
 </body>
