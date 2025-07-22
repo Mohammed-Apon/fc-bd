@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/400px-FanCode_logo.svg.png",FANCODE
-https://re-stream.netlify.app/fancode.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/400px-T_Sports_logo.svg.png",T-SPORTS HD
+https://re-stream.netlify.app/tsports.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/500px-Colors_TV_logo.svg.png",COLORS HD
 https://re-stream.netlify.app/colors.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/500px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL
