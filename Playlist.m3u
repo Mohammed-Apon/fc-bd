@@ -17,5 +17,7 @@ https://re-stream.netlify.app/sonyaath.m3u8
 https://re-stream.netlify.app/sonymax.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Sony_Pal_logo_new.jpeg",SONY PAL
 https://re-stream.netlify.app/sonypal.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Sab_new.png/300px-Sony_Sab_new.png",SONY SAB
+https://re-stream.netlify.app/sonysabsd.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Sab_new.png/300px-Sony_Sab_new.png",SONY SAB HD
-https://re-stream.netlify.app/sonysab.m3u8
+https://re-stream.netlify.app/sonysabhd.m3u8
