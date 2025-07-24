@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Animaxlogo-20160701.png",ANIMAX
-https://re-stream.netlify.app/animax.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/500px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL
 https://re-stream.netlify.app/disney.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/500px-Hungama_TV.svg.png",HUNGAMA
