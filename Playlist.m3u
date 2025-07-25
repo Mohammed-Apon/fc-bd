@@ -1,14 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/FanCode_logo.svg/400px-FanCode_logo.svg.png",FANCODE
-https://re-stream.netlify.app/fancode.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/500px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL
 https://re-stream.netlify.app/disney.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/500px-Hungama_TV.svg.png",HUNGAMA
 https://re-stream.netlify.app/hungama.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png",NICK
 https://re-stream.netlify.app/nick.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/a/a4/%E0%A6%A8%E0%A6%BF%E0%A6%95%E0%A6%BF%E0%A6%B2%E0%A7%8B%E0%A6%A1%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%A8_%E0%A6%B8%E0%A6%A8%E0%A6%BF%E0%A6%95_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",SONIC
-https://re-stream.netlify.app/sonic.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/500px-Colors_TV_logo.svg.png",COLORS HD
 https://re-stream.netlify.app/colors.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Sony_Aath_new.png/300px-Sony_Aath_new.png",SONY AATH
