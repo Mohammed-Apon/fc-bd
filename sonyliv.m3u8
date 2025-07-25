@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
-https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
-https://dai.google.com/ssai/event/b4syULaIS9uJBor6MB0Gcg/master.m3u8
+https://sonydaimenew.akamaized.net/linear/hls/pb/event/b4syULaIS9uJBor6MB0Gcg/stream/4d9cc871-80a9-4afe-af7a-dffe85f779ba:TPE2/variant/1a3c2b44906bc1d5a0e731b5d36fe088/bandwidth/hdntl=exp=1753554039~acl=%2f*~id=aa935e1e-fc81-4367-9ab3-84138270ec4d~data=hdntl~hmac=39350d0438467dd2e3a9f2ff6651847ebd462884f29e0b8bf6fd9eca7230c40d/4865152.m3u8?aka_me_session_id=AAAAAAAAAAB3HIVoAAAAAAOYVs%2f7S7cTgh3uxnDLYJK1jJdBc%2f%2fw2NA8YjYwOGz6JmTJpK8UUIRtzDzWbpRQOOtkiPIfED1G&aka_media_format_type=hls
+https://sonydaimenew.akamaized.net/linear/hls/pb/event/b4syULaIS9uJBor6MB0Gcg/stream/4d9cc871-80a9-4afe-af7a-dffe85f779ba:TPE2/variant/1a3c2b44906bc1d5a0e731b5d36fe088/bandwidth/hdntl=exp=1753554039~acl=%2f*~id=aa935e1e-fc81-4367-9ab3-84138270ec4d~data=hdntl~hmac=39350d0438467dd2e3a9f2ff6651847ebd462884f29e0b8bf6fd9eca7230c40d/4865152.m3u8?aka_me_session_id=AAAAAAAAAAB3HIVoAAAAAAOYVs%2f7S7cTgh3uxnDLYJK1jJdBc%2f%2fw2NA8YjYwOGz6JmTJpK8UUIRtzDzWbpRQOOtkiPIfED1G&aka_media_format_type=hls
+https://sonydaimenew.akamaized.net/linear/hls/pb/event/b4syULaIS9uJBor6MB0Gcg/stream/4d9cc871-80a9-4afe-af7a-dffe85f779ba:TPE2/variant/1a3c2b44906bc1d5a0e731b5d36fe088/bandwidth/hdntl=exp=1753554039~acl=%2f*~id=aa935e1e-fc81-4367-9ab3-84138270ec4d~data=hdntl~hmac=39350d0438467dd2e3a9f2ff6651847ebd462884f29e0b8bf6fd9eca7230c40d/4865152.m3u8?aka_me_session_id=AAAAAAAAAAB3HIVoAAAAAAOYVs%2f7S7cTgh3uxnDLYJK1jJdBc%2f%2fw2NA8YjYwOGz6JmTJpK8UUIRtzDzWbpRQOOtkiPIfED1G&aka_media_format_type=hls
 #EXT-X-ENDLIST
