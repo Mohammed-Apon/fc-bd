@@ -1,9 +1,3 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/500px-2014_Disney_Channel_logo.svg.png",DISNEY CHANNEL
 https://re-stream.netlify.app/disney.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Colors_TV_logo.svg/500px-Colors_TV_logo.svg.png",COLORS HD
-https://re-stream.netlify.app/colors.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Sony_Max_new.png/300px-Sony_Max_new.png",SONY MAX HD
-https://re-stream.netlify.app/sonymax.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Sony_Pal_logo_new.jpeg",SONY PAL
-https://re-stream.netlify.app/sonypal.m3u8
