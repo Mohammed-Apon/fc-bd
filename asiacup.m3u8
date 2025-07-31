@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-
-
-
+https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/hdntl=exp=1754061806~acl=%2f*~id=27272142732089773048419634686220~data=hdntl~hmac=a49b9c75c03ec572e1c700697595f10cdb8285da23307eb9aac77ec94dd03998/master_3000.m3u8?aka_me_session_id=AAAAAAAAAADu24xoAAAAAHxMxTM+28r%2fpKVsNdT6WXcuYTk+27JGBbdfaG0tqjHvxo%2fix1TJI%2fc5Rk8dJeqRLrdc2jyBnVKT&aka_media_format_type=hls
+https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/hdntl=exp=1754061806~acl=%2f*~id=27272142732089773048419634686220~data=hdntl~hmac=a49b9c75c03ec572e1c700697595f10cdb8285da23307eb9aac77ec94dd03998/master_3000.m3u8?aka_me_session_id=AAAAAAAAAADu24xoAAAAAHxMxTM+28r%2fpKVsNdT6WXcuYTk+27JGBbdfaG0tqjHvxo%2fix1TJI%2fc5Rk8dJeqRLrdc2jyBnVKT&aka_media_format_type=hls
+https://sonymtmnew.akamaized.net/hls/live/2094588/DAI04ME-V3/hdntl=exp=1754061806~acl=%2f*~id=27272142732089773048419634686220~data=hdntl~hmac=a49b9c75c03ec572e1c700697595f10cdb8285da23307eb9aac77ec94dd03998/master_3000.m3u8?aka_me_session_id=AAAAAAAAAADu24xoAAAAAHxMxTM+28r%2fpKVsNdT6WXcuYTk+27JGBbdfaG0tqjHvxo%2fix1TJI%2fc5Rk8dJeqRLrdc2jyBnVKT&aka_media_format_type=hls
 #EXT-X-ENDLIST
