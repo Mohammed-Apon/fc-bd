@@ -1,7 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://re-stream.netlify.app/disney.m3u8
-https://re-stream.netlify.app/disney.m3u8
-https://re-stream.netlify.app/disney.m3u8
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+https://re-stream.netlify.app/index.m3u8
+#EXTINF:10.0,
+https://re-stream.netlify.app/index.m3u8
+#EXTINF:10.0,
+https://re-stream.netlify.app/index.m3u8
 #EXT-X-ENDLIST
