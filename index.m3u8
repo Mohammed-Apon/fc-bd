@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:10.0,
+http://tv.bdiptv.store:80/live/restreauu/refstream/71.ts
+#EXTINF:10.0,
+http://tv.bdiptv.store:80/live/restreauu/refstream/71.ts
+#EXTINF:10.0,
+http://tv.bdiptv.store:80/live/restreauu/refstream/71.ts
+#EXT-X-ENDLIST
