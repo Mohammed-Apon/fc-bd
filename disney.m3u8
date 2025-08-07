@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3671.m3u8
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3671.m3u8
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3671.m3u8
+https://re-stream.netlify.app/index.m3u8
+https://re-stream.netlify.app/index.m3u8
+https://re-stream.netlify.app/index.m3u8
 #EXT-X-ENDLIST
