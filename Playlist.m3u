@@ -90,9 +90,6 @@ https://tvsen6.aynaott.com/anandatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042", Somoy TV
 https://tvsen6.aynaott.com/somoytv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png?20230716130411", Zee Bangla HD
-http://tv.bdiptv.store:80/live/restreauu/refstream/15252.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/500px-Star_Jalsha_logo_2023.png", Star Jalsha HD
 http://tvsen5.aynaott.com/gUX8BJmNc2yF/tracks-v1a1/mono.m3u8
 
