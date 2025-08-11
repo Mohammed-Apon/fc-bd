@@ -1,7 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://tv.bdiptv.store:80/live/restreauu/refstream/71.m3u8
-http://tv.bdiptv.store:80/live/restreauu/refstream/71.m3u8
-http://tv.bdiptv.store:80/live/restreauu/refstream/71.m3u8
-#EXT-X-ENDLIST
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",LANGUAGE="hi",NAME="hi (mp4a.40.2, 46Khz, 175Kb/s)",DEFAULT=YES,AUTOSELECT=YES,URI="audio_0.m3u8?uid=3674391431"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3237200,RESOLUTION=1024x576,FRAME-RATE=25.00,CODECS="avc1.64001F,mp4a.40.2,mp4a.40.2,mp4a.40.2",AUDIO="audio"
+https://live.dinesh29.com.np/stream/jiotvplus/disneychannel/video_0.m3u8?uid=3775244929
