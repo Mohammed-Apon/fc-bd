@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://filex.me:8080/live/998866/998866/25.m3u8
-http://filex.me:8080/live/998866/998866/25.m3u8
-http://filex.me:8080/live/998866/998866/25.m3u8
+http://filex.me:8080/998866/998866/25
+http://filex.me:8080/998866/998866/25
+http://filex.me:8080/998866/998866/25
 #EXT-X-ENDLIST
