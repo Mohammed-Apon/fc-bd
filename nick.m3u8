@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+http://starshare.fun:80/live/home123/home123/205.m3u8
+http://starshare.fun:80/live/home123/home123/205.m3u8
+http://starshare.fun:80/live/home123/home123/205.m3u8
+#EXT-X-ENDLIST
