@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/5288.m3u8
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/5288.m3u8
-https://rex-streaming-tv.vercel.app/api/BDIX/NSLOCKY/5288.m3u8
+http://starshare.fun:80/live/home123/home123/207.m3u8
+http://starshare.fun:80/live/home123/home123/207.m3u8
+http://starshare.fun:80/live/home123/home123/207.m3u8
 #EXT-X-ENDLIST
