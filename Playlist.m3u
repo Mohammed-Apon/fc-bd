@@ -96,6 +96,9 @@ https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png", SET HD
 https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master_3500.m3u8
 
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:Sony_Sab_new.png", Sony Sab
+https://www.xfireflix.fun/test/live.php?id=978d421e4729&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png", Sony Sab HD
 https://dish.slivcdn.com/hls/live/2011749-b/SABHD/master_3500.m3u8
 
@@ -134,3 +137,6 @@ https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master_3500.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/1200px-Nick.png", Nick
 https://re-stream.netlify.app/nick.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Nickelodeon_Sonic_logo_2019.png/revision/latest/scale-to-width-down/1200?cb=20250425140438", Sonic
+https://re-stream.netlify.app/sonic.m3u8
