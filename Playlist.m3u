@@ -4,7 +4,7 @@
 https://tvsen6.aynaott.com/channeli/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/73c39182782a201338070c2f4429e449", NTV
-https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.fmp4.m3u8
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043", Bangla Vision
 https://tvsen5.aynaott.com/banglavision/index.m3u8
@@ -25,7 +25,7 @@ https://tvsen5.aynaott.com/DeeptoTVHD/index.fmp4.m3u8
 https://tvsen5.aynaott.com/tsports/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c", Gazi TV
-https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
+https://tvsen6.aynaott.com/gtvhdforgame/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8", Desh TV
 https://tvsen6.aynaott.com/deshtv/index.m3u8
