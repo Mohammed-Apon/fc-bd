@@ -99,9 +99,6 @@ https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SET_HD/images/LOGO_HD/image.png", SET HD
 https://dish.slivcdn.com/hls/live/2011671-b/SETHD/master_3500.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Sab_new.png", Sony Sab
-https://www.xfireflix.fun/test/live.php?id=978d421e4729&e=.m3u8
-
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB_HD/images/LOGO_HD/image.png", Sony Sab HD
 https://dish.slivcdn.com/hls/live/2011749-b/SABHD/master_3500.m3u8
 
