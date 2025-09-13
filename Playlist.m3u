@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ksTQCWwP/1757589583796892-ACC25-GEN-landscape-thumb-re1-10-SEP.jpg", Asia Cup 2025
-https://re-stream.netlify.app/asiacup.m3u8
-
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/28931315743beff50fc2c1312b1f8261", Channel I
 https://tvsen6.aynaott.com/channeli/index.m3u8
 
