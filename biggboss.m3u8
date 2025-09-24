@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000
-http://starshare.org:80/live/xpGPEBsE6y/adorable3drawer/583724.m3u8
+https://re-stream.netlify.app/ts.m3u8
 #EXT-X-ENDLIST
