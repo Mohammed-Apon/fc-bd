@@ -128,3 +128,6 @@ https://re-stream.netlify.app/nick.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Nickelodeon_Sonic_logo_2019.png/revision/latest/scale-to-width-down/1200?cb=20250425140438", Sonic
 https://re-stream.netlify.app/sonic.m3u8
+
+#EXTINF:-1 tvg-logo="https://en.m.wikipedia.org/wiki/File:2014_Disney_Channel_logo.svg", Disney Channel
+https://re-stream.netlify.app/disney.m3u8
