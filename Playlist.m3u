@@ -121,7 +121,7 @@ https://dish.slivcdn.com/hls/live/2020591-b/TEN3HD/master_3500.m3u8
 https://dish.slivcdn.com/hls/live/2020593-b/SONYSIXHD/master_3500.m3u8
 
 #EXTINF:-1 tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/logo/12_259.png", Sony YAY
-https://dish.slivcdn.com/hls/live/2011746/SonyYaySD/master_3500.m3u8
+https://re-stream.netlify.app/yay.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/1200px-Nick.png", Nick
 https://re-stream.netlify.app/nick.m3u8
