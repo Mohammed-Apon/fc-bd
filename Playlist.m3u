@@ -22,7 +22,7 @@ https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 https://tvsen5.aynaott.com/DeeptoTVHD/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32", T Sports HD
-https://tvsen5.aynaott.com/tsports/index.m3u8
+https://re-stream.netlify.app/tsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c", Gazi TV
 https://tvsen6.aynaott.com/gtvhdforgame/index.m3u8
