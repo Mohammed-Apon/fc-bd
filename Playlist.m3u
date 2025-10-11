@@ -1,13 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32", T Sports HD
+#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32", T SPORTS HD
 https://re-stream.netlify.app/tsports.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/1200px-Nick.png", Nick
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Nick.png/1200px-Nick.png", NICK
 https://re-stream.netlify.app/nick.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Nickelodeon_Sonic_logo_2019.png/revision/latest/scale-to-width-down/1200?cb=20250425140438", Sonic
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Nickelodeon_Sonic_logo_2019.png/revision/latest/scale-to-width-down/1200?cb=20250425140438", SONIC
 https://re-stream.netlify.app/sonic.m3u8
 
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/new-disney-channel-logo-vector-free-download-11574247903pfuddm63lv.png", Disney Channel
+#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/new-disney-channel-logo-vector-free-download-11574247903pfuddm63lv.png", DISNEY CHANNEL
 https://re-stream.netlify.app/disney.m3u8
