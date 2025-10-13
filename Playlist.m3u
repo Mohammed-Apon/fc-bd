@@ -1,8 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://backoffice.channel24bd.tv/media/common/live2.gif", CRICKET EVENT
+https://re-stream.netlify.app/cricket.m3u8
 
 #EXTINF:-1 tvg-logo="https://backoffice.channel24bd.tv/media/common/live2.gif", FOOTBALL EVENT
+https://re-stream.netlify.app/football.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32", T SPORTS HD
 https://re-stream.netlify.app/tsports.m3u8
