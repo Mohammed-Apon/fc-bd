@@ -1,19 +1,4 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f5/UEFA_Champions_League.svg", UEFA CHAMPIONS LEAGUE 2025-26
 
-#EXTINF:-1 tvg-logo="https://backoffice.channel24bd.tv/media/common/live2.gif", CRICKET EVENT
-https://re-stream.netlify.app/cricket.m3u8
-
-#EXTINF:-1 tvg-logo="https://backoffice.channel24bd.tv/media/common/live2.gif", FOOTBALL EVENT
-https://re-stream.netlify.app/football.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32", T SPORTS HD
-https://re-stream.netlify.app/tsports.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLMKn7o5RWka1bN9OXJX81reRHutuQH0iKrRTOfRId0ffZqyuo_XGxwU&s=10", NICK
-https://re-stream.netlify.app/nick.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Nickelodeon_Sonic_logo_2019.png/revision/latest/scale-to-width-down/1200?cb=20250425140438", SONIC
-https://re-stream.netlify.app/sonic.m3u8
-
-#EXTINF:-1 tvg-logo="https://toppng.com/uploads/preview/new-disney-channel-logo-vector-free-download-11574247903pfuddm63lv.png", DISNEY CHANNEL
-https://re-stream.netlify.app/disney.m3u8
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Saudi_Pro_League#/media/File%3ARoshn_Saudi_League_Logo.svg", ROSHN SAUDI LEAGUE 2025-26
