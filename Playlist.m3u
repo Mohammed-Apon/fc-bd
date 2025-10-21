@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fGtBdfgQ/UEFA.png", UEFA CHAMPIONS LEAGUE 2025-26
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mC6K0HD6/RSL.png", ROSHN SAUDI LEAGUE 2025-26
-https://dai.google.com/linear/hls/event/aeHkXnk5R4KhvRNuzndQBQ/master.m3u8
+https://v5on.site/PROXIMITY/proxy.php/proxy.php?url=https://dai.google.com/linear/hls/event/aeHkXnk5R4KhvRNuzndQBQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3YzcbB0J/DC.png", DISNEY CHANNEL
 http://116.90.120.149:8000/play/a0bx
 http://103.182.170.32:8888/play/a04g
