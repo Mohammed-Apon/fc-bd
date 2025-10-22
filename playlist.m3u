@@ -1,13 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", Afghanistan vs Zimbabwe
-https://bd-mc-fdlive.fancode.com/mumbai/137371_english_hls_981046261586448ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", Gangwon vs Vissel Kobe
-https://bd-mc-fdlive.fancode.com/mumbai/136011_english_hls_da478fb58368848ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", Gamba Osaka vs Nam Dinh
-https://bd-mc-fdlive.fancode.com/mumbai/136155_english_hls_d49f60c82916179ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", Hangzhou Open vs Hangzhou West Lake Golf Club
-https://bd-mc-fdlive.fancode.com/mumbai/137172_english_hls_a5f8a8e8c97733ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", UPCOMING
-https://bd-mc-fdlive.fancode.com/mumbai/136060_english_hls_f222acdcab59753ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", UPCOMING
-https://bd-mc-fdlive.fancode.com/mumbai/136060_english_hls_f222acdcab59753ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", Fujairah vs Abu Dhabi
+https://bd-mc-fdlive.fancode.com/mumbai/137507_english_hls_64016b4d039902ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", FC Goa vs Al-Nassr FC
+https://bd-mc-fdlive.fancode.com/mumbai/136132_english_hls_31dbdc9d3532399ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", FK Istiklol vs AL Zawraa SC
+https://bd-mc-fdlive.fancode.com/mumbai/136131_english_hls_d4f461c74d6628ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", Andijan vs Khaldiya
+https://bd-mc-fdlive.fancode.com/mumbai/136107_english_hls_f2cb91838610801ta-di_h264/index.m3u8
