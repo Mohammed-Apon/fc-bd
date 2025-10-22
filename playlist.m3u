@@ -1,9 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", Al Ahli (QAT) vs Arkadag
-https://bd-mc-fdlive.fancode.com/mumbai/136108_english_hls_2592a683de41556ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", Esteghlal FC vs Al Wehdat
-https://bd-mc-fdlive.fancode.com/mumbai/136095_english_hls_2722ac3f8c16874ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", Emirates Blues vs Sharjah
 https://bd-mc-fdlive.fancode.com/mumbai/137508_english_hls_7a6183c6b535516ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", Al Muharraq vs Al Wasl
 https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", Sheffield Wednesday FC vs Middlesbrough FC
+upcoming
