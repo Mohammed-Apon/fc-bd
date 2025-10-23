@@ -1,7 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", Emirates Blues vs Sharjah
-https://bd-mc-fdlive.fancode.com/mumbai/137508_english_hls_7a6183c6b535516ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", Al Muharraq vs Al Wasl
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 08:30:00 AM
 https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", Sheffield Wednesday FC vs Middlesbrough FC
-https://bd-mc-fdlive.fancode.com/mumbai/136953_english_hls_a9da8444ed48312ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 09:00:00 AM
+https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 11:30:00 AM
+https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 11:45:00 AM
+https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 01:00:00 PM
+https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 03:30:00 PM
+https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 03:30:00 PM
+https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 03:30:00 PM
+https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 05:45:00 PM
+https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 05:45:00 PM
+https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 05:45:00 PM
+https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 07:00:00 PM
+https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 07:15:00 PM
+https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 09:30:00 PM
+https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 11:00:00 PM
+https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 11:30:00 PM
+https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 12:30:00 AM
+https://bd-mc-fdlive.fancode.com/mumbai/136096_english_hls_2c979818cd15245ta-di_h264/index.m3u8
