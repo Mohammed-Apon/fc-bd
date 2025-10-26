@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", Albirex Niigata vs Vissel Kobe
 https://bd-mc-fdlive.fancode.com/mumbai/137013_english_hls_df1ab27f0e38110ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", Jammu Lions vs Gulmarg Royal
+https://bd-mc-fdlive.fancode.com/mumbai/137859_english_hls_611472c7025478ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 11:00:00 AM
 https://fcbd.vercel.app/ss.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 11:30:00 AM
