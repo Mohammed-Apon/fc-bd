@@ -1,13 +1,1 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 09:00:00 AM
-https://fcbd.vercel.app/fc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 10:30:00 AM
-https://fcbd.vercel.app/fc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 04:00:00 PM
-https://fcbd.vercel.app/fc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 05:30:00 PM
-https://fcbd.vercel.app/fc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 09:00:00 PM
-https://fcbd.vercel.app/fc.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fdrPVvDS/fc.png", 11:30:00 PM
-https://fcbd.vercel.app/fc.m3u8
